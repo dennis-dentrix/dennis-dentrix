@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dennis-dentrix
-- 👀 I’m interested in Mombasa, Kenya
+- 👀 I’m interested in software development and cyber security management
 - 🌱 I’m currently learning undergrad in IT
 - 💞️ I’m looking to collaborate on whatever projects that'll help grow my experience.
 - 📫 How to reach me on my email... denkyusya@gmail.com
